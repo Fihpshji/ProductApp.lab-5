@@ -5,11 +5,11 @@ plugins {
 }
 
 android {
-    namespace = "com.example.productapp"
+    namespace = "com.example.korotkyi"
     compileSdk = 36
 
     defaultConfig {
-        applicationId = "com.example.Korotkyi"
+        applicationId = "com.example.korotkyi"
         minSdk = 26
         targetSdk = 36
         versionCode = 1
